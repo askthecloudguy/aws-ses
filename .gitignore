@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/SendQuickEmailWithSES/CloudGuy.SendQuickEmailWithSES/.vs/CloudGuy.SendQuickEmailWithSES/v15
+/SendQuickEmailWithSES/CloudGuy.SendQuickEmailWithSES/bin/Debug
+/SendQuickEmailWithSES/CloudGuy.SendQuickEmailWithSES/obj/Debug
+/SendQuickEmailWithSES/CloudGuy.SendQuickEmailWithSES/packages
